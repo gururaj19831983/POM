@@ -1,0 +1,11 @@
+com\XYZcompany\ecommerce\customlistener\RerunFailedTests.class
+com\XYZcompany\ecommerce\logs\ExtentReportsLogs.class
+com\XYZcompany\ecommerce\pagelibrary\MyAccount.class
+com\XYZcompany\ecommerce\pagelibrary\SignIn.class
+com\XYZcompany\ecommerce\testscripts\TC002_CreateAccount.class
+com\XYZcompany\ecommerce\Excelreader\ExcelReader.class
+com\XYZcompany\ecommerce\testscripts\TC001_SigningIn.class
+com\XYZcompany\ecommerce\utils\TestConfig.class
+com\XYZcompany\ecommerce\pagelibrary\CreateAnAccount.class
+com\XYZcompany\ecommerce\testbase\testbase.class
+com\XYZcompany\ecommerce\utils\GenericMethods.class

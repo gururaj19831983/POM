@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="browser" value="chrome"/>
+  <test name="firefoxtest">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.XYZcompany.ecommerce.testscripts.TC001_SigningIn"/>
+      <class name="com.XYZcompany.ecommerce.testscripts.TC002_CreateAccount"/>
+    </classes>
+  </test> <!-- firefoxtest -->
+  <test name="chrometest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.XYZcompany.ecommerce.testscripts.TC001_SigningIn"/>
+      <class name="com.XYZcompany.ecommerce.testscripts.TC002_CreateAccount"/>
+    </classes>
+  </test> <!-- chrometest -->
+</suite> <!-- Failed suite [Suite] -->
